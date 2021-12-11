@@ -1,0 +1,18 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "debug": "node src/main.js",
+    "debug2": "node src/main2.js",
+    "debug3": "node src/ch04_03.js",
+    "debug4": "node src/ch04_04(1).js"
+  },
+  "keywords": [],
+  "author": "Lucas Im",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.5.0"
+  }
+}
